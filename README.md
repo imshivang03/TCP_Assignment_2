@@ -1,1 +1,1 @@
-# TCP Cient Server communication using FIFO technique (Queue Data Structure) using Golang
+# TCP Cient Server Communication using FIFO technique (Queue Data Structure) using Golang
